@@ -1,0 +1,26 @@
+{
+  "name": "aws-scripts",
+  "version": "0.0.1",
+  "description": "AWS scripts.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverendingqs/aws-scripts.git"
+  },
+  "author": "neverendingqs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/neverendingqs/aws-scripts/issues"
+  },
+  "homepage": "https://github.com/neverendingqs/aws-scripts#readme",
+  "dependencies": {
+    "aws-sdk": "^2.503.0",
+    "dotenv": "^8.0.0"
+  }
+}
