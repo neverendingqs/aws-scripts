@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/neverendingqs/aws-scripts#readme",
   "dependencies": {
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.0.0"
   }
 }
